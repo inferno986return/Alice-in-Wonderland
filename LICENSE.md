@@ -1,6 +1,8 @@
 # LICENSE
 
-The text is part of the public domain in both the US and UK as the original book *Alice's Adventures in Wonderland* was published in 1865 (https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland).
+The text is part of the public domain in both the US and UK as the original book *Alice's Adventures in Wonderland* was published in 1865.
+(https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
+(https://en.wikipedia.org/wiki/Public_domain)
 
 The LaTeX source code and eventual XHTML and CSS are licensed under the **The Unlicense**.
 
